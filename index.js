@@ -2,7 +2,7 @@ alert('你好！');
 if(!comfirm('想玩个游戏吗'){
     alert('赶紧右上角关闭页面吧');
     alert('还不关闭吗');
-    alert('那就一定要玩了哦')；
+    alert('那就一定要玩了哦');
 }
 if(!confirm('start?')) alert('……你已经没得选择了');
 let user = prompt('告诉我你的名字？');
